@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to EazyBank Loans QA related API"
+  contactDetails:
+    name: "Ananthi Bharathiraja"
+    email: "bharathbk1007@gmail.com"
+  onCallSupport:
+    -(999)417-8144
+    -(701)065-6375

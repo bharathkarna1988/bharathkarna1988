@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: "Welcome to EazyBank cards PROD related API"
+  contactDetails:
+    name: "Nakshatra Bharathiraja Karunanithi"
+    email: "bharathbk1007@gmail.com"
+  onCallSupport:
+    -(999)417-8144
+    -(701)065-6375

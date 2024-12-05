@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+cards:
+  message: "Welcome to EazyBank cards realted API"
+  contactDetails:
+    name: "Bharathiraja Karunanithi"
+    email: "bharathbk1007@gmail.com"
+  onCallSupport:
+    -(999)417-8144
+    -(701)065-6375
