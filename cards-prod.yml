@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 cards:
-  message: "Welcome to EazyBank cards prod related API"
+  message: "Welcome to EazyBank cards production related API"
   contactDetails:
     name: "Nakshatra Bharathiraja Karunanithi"
     email: "bharathbk1007@gmail.com"
