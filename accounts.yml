@@ -1,5 +1,5 @@
 build:
-  version: 3
+  version: "3.0"
 
 accounts:
   message: "Welcome to EazyBank loans local docker a realted API"
