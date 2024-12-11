@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to EazyBank accounts prod pk related API"
+  message: "Welcome to EazyBank accounts prod pyrelated API"
   contactDetails:
     name: "Nakshatra Bharathiraja Karunanithi"
     email: "bharathbk1007@gmail.com"
